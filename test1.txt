@@ -1,1 +1,2 @@
 learning basics of git
+also learning the git commands
